@@ -6,12 +6,12 @@ I don't use linux but my usual only error on linux is upper/lowercase to which i
 
 Windows users you will need an cross compiler and a make executable
 >
-##### AARCH32
+#### AARCH32
 >
 <b>COMPILER:</b> https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
 The Win32 zip or exe file has the windows ARM AARCH32 Cross compiler
 >
-##### AARCH64
+#### AARCH64
 >
 <b>COMPILER:</b> https://releases.linaro.org/components/toolchain/binaries/latest-7/aarch64-elf/
 Download the i686-mingw32_aarch64-elf.tar.xz (yeah the biggest one)
