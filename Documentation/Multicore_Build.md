@@ -11,6 +11,9 @@ For AARCH32
 <b>COMPILER:</b> https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
 The Win32 zip or exe file has the windows ARM AARCH32 Cross compiler
 >
+For AARCH64
+<b>COMPILER:</b> https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
+>
 <b>Make:</b> https://sourceforge.net/projects/ezwinports/files/
 download "make-4.2.1-without-guile-w32-bin.zip" and set the extracted executable on the comamnd line enviroment path
 >
