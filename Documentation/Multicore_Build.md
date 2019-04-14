@@ -4,9 +4,9 @@ You can compile on both Windows or linux the makefile should be compatible to ei
 >
 I don't use linux but my usual only error on linux is upper/lowercase to which it is sensitive. You will need to search out how to baremetal compile for the Pi.
 
-For windows users you will need an cross compiler and a make executable
+Windows users you will need an cross compiler and a make executable
 >
-For AARCH32
+<b>For AARCH32</b>
 >
 <b>COMPILER:</b> https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
 The Win32 zip or exe file has the windows ARM AARCH32 Cross compiler
@@ -20,6 +20,8 @@ For the windows make executable
 >
 <b>Make:</b> https://sourceforge.net/projects/ezwinports/files/
 download "make-4.2.1-without-guile-w32-bin.zip" and set the extracted executable on the comamnd line enviroment path
+>
+install "arm-none-eabi-gcc"
 >
 # EDIT THE MAKEFILE
 >
