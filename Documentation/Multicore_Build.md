@@ -12,6 +12,7 @@ For AARCH32
 The Win32 zip or exe file has the windows ARM AARCH32 Cross compiler
 >
 For AARCH64
+>
 <b>COMPILER:</b> https://releases.linaro.org/components/toolchain/binaries/latest-7/aarch64-elf/
 Download the i686-mingw32_aarch64-elf.tar.xz (the biggest one :-))
 >
