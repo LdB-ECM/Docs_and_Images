@@ -2,7 +2,7 @@
 
 You can compile on both Windows or linux the makefile should be compatible to either.
 >
-I don't use linux but my usual only error on linux is upper/lowercase to which it is sensitive. You will need to search out how to baremetal compile for the Pi.
+I don't use linux but my usual only error on linux is upper/lowercase to which it is sensitive. You will need to search out how to baremetal compile for the Pi (install "arm-none-eabi-gcc" or apt-get "arm-none-eabi-gcc" etc)
 
 Windows users you will need an cross compiler and a make executable
 >
@@ -20,8 +20,6 @@ For the windows make executable
 >
 <b>Make:</b> https://sourceforge.net/projects/ezwinports/files/
 download "make-4.2.1-without-guile-w32-bin.zip" and set the extracted executable on the comamnd line enviroment path
->
-install "arm-none-eabi-gcc"
 >
 # EDIT THE MAKEFILE
 >
