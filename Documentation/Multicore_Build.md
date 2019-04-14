@@ -12,10 +12,19 @@ For AARCH32
 The Win32 zip or exe file has the windows ARM AARCH32 Cross compiler
 >
 For AARCH64
-<b>COMPILER:</b> https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
+<b>COMPILER:</b> https://releases.linaro.org/components/toolchain/binaries/latest-7/aarch64-elf/
+Download the i686-mingw32_aarch64-elf.tar.xz (the biggest one :-))
 >
 <b>Make:</b> https://sourceforge.net/projects/ezwinports/files/
 download "make-4.2.1-without-guile-w32-bin.zip" and set the extracted executable on the comamnd line enviroment path
+>
+# EDIT THE MAKEFILE
+>
+The make file contains paths to the compiler directories and the prefix of the executable up to the -gcc
+>
+An example: D:/gcc_linaro_7_4_1/bin/aarch64-elf
+>
+The directory needs to reflect where you extracted the compiler to on YOUR MACHINE
 >
 # THE MAKE COMMANDS
 >
