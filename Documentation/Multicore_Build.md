@@ -34,12 +34,12 @@ Now change directory to the directory that holds the makefile, then use the comm
 >
 # THE MAKE COMMANDS
 >
-##### Make Pi2  ... Compiles ARM7 AARCH32 bit code which will run on Pi2, Pi3
+**Make Pi2**  ... Compiles ARM7 AARCH32 bit code which will run on Pi2, Pi3
 >
-#### Make Pi3  ... Compiles ARM8 AARCH32 bit code which will run only on Pi3
+**Make Pi3**  ... Compiles ARM8 AARCH32 bit code which will run only on Pi3
 >
-### Make Pi3-64  ... Compiles ARM8 AARCH64 bit code which will run only on Pi3
+**Make Pi3-64**  ... Compiles ARM8 AARCH64 bit code which will run only on Pi3
 >
-## Make clean ... Cleans up all intermediate files
+**Make clean** ... Cleans up all intermediate files
 >
 If you wish to just try any sample a pre-compiled version is provided in the "diskimg" directory of each sample. Simply take a formatted SD card and place the files in that directory onto the root directory of the SD Card place in Pi and turn on. 
