@@ -16,6 +16,8 @@ For AARCH64
 <b>COMPILER:</b> https://releases.linaro.org/components/toolchain/binaries/latest-7/aarch64-elf/
 Download the i686-mingw32_aarch64-elf.tar.xz (the biggest one :-))
 >
+For the windows make executable
+>
 <b>Make:</b> https://sourceforge.net/projects/ezwinports/files/
 download "make-4.2.1-without-guile-w32-bin.zip" and set the extracted executable on the comamnd line enviroment path
 >
