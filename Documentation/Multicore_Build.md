@@ -7,10 +7,11 @@ I don't use linux but my usual only error on linux is upper/lowercase to which i
 For windows users you will need an cross compiler and a make executable
 >
 For AARCH32
+>
 <b>COMPILER:</b> https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
 The Win32 zip or exe file has the windows ARM AARCH32 Cross compiler
 >
-<b>GNUMake:</b> https://sourceforge.net/projects/ezwinports/files/
+<b>Make:</b> https://sourceforge.net/projects/ezwinports/files/
 download "make-4.2.1-without-guile-w32-bin.zip" and set the extracted executable on the comamnd line enviroment path
 >
 # THE MAKE COMMANDS
