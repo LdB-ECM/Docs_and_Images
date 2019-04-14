@@ -10,8 +10,8 @@ For AARCH32
 <b>COMPILER:</b> https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
 The Win32 zip or exe file has the windows ARM AARCH32 Cross compiler
 >
-<b>GNUMake:</b> http://gnuwin32.sourceforge.net/packages/make.htm
-Select the package without guille and place on your comamnd line path
+<b>GNUMake:</b> https://sourceforge.net/projects/ezwinports/files/
+download "make-4.2.1-without-guile-w32-bin.zip" and set the extracted executable on the comamnd line enviroment path
 >
 # THE MAKE COMMANDS
 >
