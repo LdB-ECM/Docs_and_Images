@@ -2,7 +2,7 @@
 
 You can compile on both Windows or linux the makefile should be compatible to either.
 >
-I don't use linux but have many users who do who quickly tell me of errors (usually upper/lowercase linux is sensitive too). you will need to search out how to baremetal compile.
+I don't use linux but my usual only error on linux is upper/lowercase to which it is sensitive. You will need to search out how to baremetal compile for the Pi.
 
 For windows users you will need an cross compiler and a make executable
 >
