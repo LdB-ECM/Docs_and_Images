@@ -27,7 +27,7 @@ The make file contains paths to the compiler directories and the prefix of the e
 >
 An example: D:/gcc_linaro_7_4_1/bin/aarch64-elf
 >
-The directory needs to reflect where you extracted the compiler to on YOUR MACHINE
+That directory needs to reflect where YOU extracted the compiler to on YOUR MACHINE
 >
 # THE MAKE COMMANDS
 >
