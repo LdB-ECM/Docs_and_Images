@@ -6,7 +6,9 @@ I don't use linux but my usual only error on linux is upper/lowercase to which i
 
 For windows users you will need an cross compiler and a make executable
 >
+For AARCH32
 <b>COMPILER:</b> https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
+The Win32 zip or exe file has the windows ARM AARCH32 Cross compiler
 >
 <b>GNUMake:</b> http://gnuwin32.sourceforge.net/packages/make.htm
 Select the package without guille and place on your comamnd line path
