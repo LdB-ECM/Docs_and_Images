@@ -1,11 +1,11 @@
 # COMPILING AARCH64 CODE
 
 You can compile on both Windows or linux the makefile should be compatible to either.
->I don't use linux but the usual error on linux is the trivial case of upper/lowercase in a filename which linux is sensitive with but windows will ignore. 
+>I don't use linux much but the usual error I do on linux is the trivial case of upper/lowercase in a filename. Linux is sensitive to that but windows is not. 
 
 
 
-So the first thing you will need is the right version of compiler which for Baremetal AARCH64 is ends in our target detail ARCH64-ELF.  That detail comes from this site
+So the first thing you will need is the right version of compiler which for Baremetal AARCH64 ends in our target detail name of ARCH64-ELF.  That detail comes from this site
 
 []: https://www.linaro.org/downloads/
 
